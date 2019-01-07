@@ -1,0 +1,2 @@
+=== WP Store Locator  ===
+
